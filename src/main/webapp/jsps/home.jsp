@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......Engineer Degbe is here in case you need any hlep.God is great. 
+<h2 align="center"> Welcome to Landmark Technology....Engineer Degbe is here in case you need  hlep.God is great. 
 	Landmark Technology Tesla web application project2. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
